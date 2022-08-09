@@ -15,3 +15,14 @@ Records are displayed in an ordered manner, handling NULL values, and selecting 
 Then working on Data Manipulation commands(DML) for Data Analysis. 
 Then taking Backup of the Table where migration is going on and use COMMIT and ROLLBACK commands. 
 Then listing down distinct records, further renaming columns, and finally, listing down employee details based on the complex nested conditions.
+
+
+## Push the code to repo:
+
+git checkout -b "day_1"
+
+git add .
+
+git commit -m "day_1"
+
+git push -u origin day_1
